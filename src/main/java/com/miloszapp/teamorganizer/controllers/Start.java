@@ -9,7 +9,7 @@ public class Start {
 
     @RequestMapping(value = "/home")
     public String welcomeScreen(){
-        return "welcomeView";
+        return "/start/welcomeView";
     }
 
     @RequestMapping(value = "/")
