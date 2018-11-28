@@ -13,7 +13,7 @@ import java.util.List;
 import java.util.Map;
 
 @Entity
-@Table(name = "Emplyees")
+@Table(name = "Employees")
 @Getter
 @Setter
 @NoArgsConstructor

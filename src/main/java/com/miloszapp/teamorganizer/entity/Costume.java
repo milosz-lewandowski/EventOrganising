@@ -10,7 +10,7 @@ import javax.validation.constraints.NotNull;
 import java.io.Serializable;
 
 @Entity
-@Table(name = "Costume element")
+@Table(name = "Costume elements")
 @Getter
 @Setter
 @NoArgsConstructor
